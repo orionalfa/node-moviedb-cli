@@ -238,6 +238,7 @@ ________________________________________________________________________
 
 - Add `--local` to fecth local file.
 - Add more ASCII magic.
+- Add Node-notifier.
 
 ## Bugs 🚨
 
